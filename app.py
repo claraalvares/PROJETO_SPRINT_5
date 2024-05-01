@@ -3,6 +3,7 @@ import streamlit as st
 from st_aggrid import AgGrid
 import pandas as pd
 import streamlit_pandas as sp
+import plotly_express as px
 
 # título
 st.title(':blue[Vehicle advertisements data]')
