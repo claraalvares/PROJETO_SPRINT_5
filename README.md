@@ -1,6 +1,10 @@
 # PROJETO_SPRINT_5
 Projeto Sprint 5 _ Bootcamp Data Analyst
 
+Link de acesso ao aplicativo:
+https://projeto-sprint-5-4y8k.onrender.com/
+
+Descrição:
 Aplicativo para visualização dos dados do DataFrame 'vehicles.csv', contendo informações sobre anúncios de carros.
 O aplicativo composto por:
 Seção 1: 
