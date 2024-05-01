@@ -1,0 +1,5 @@
+pandas
+plotly_express
+streamlit
+st_agrid
+streamlit_pandas
